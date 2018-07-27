@@ -1,0 +1,14 @@
+# Module Manifest
+version: 0.0.1
+apiversion: 2
+description: Syslog CommonJS Module
+author: Joseph Read <joeqread@gmail.com>
+license: MIT
+copyright: 2018 Joseph Read
+
+# these should not be edited
+name: ti.syslog
+moduleid: ti.syslog
+guid: e44273b4-fe3f-4dde-a281-88650288dab3
+platform: commonjs
+minsdk: 5.0.0.GA
